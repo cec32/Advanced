@@ -4,8 +4,8 @@ format: html
 editor: visual
 ---
 
-## Hello Caitlin
+## Hello Lazaros! 
 
 ```{r}
-print("Hello Caitlin")
+print("hello Lazaros")
 ```
